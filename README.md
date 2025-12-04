@@ -7,7 +7,7 @@
 
 <td width="230" align="center" valign="middle">
 
-<img src="https://avatars.mds.yandex.net/i?id=ff0ecc23a630c90c4ca75fcda74e99696061b1e2-4146177-images-thumbs&n=13" width="200"><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Skim_Mac_icon.png" width="200"><br>
 
 <a href="https://mac-share-apps.github.io/.github/skim-pdf-reader">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
